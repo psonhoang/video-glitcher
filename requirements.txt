@@ -1,0 +1,12 @@
+autopep8==1.5.6
+click==7.1.2
+glitch-this==1.0.2
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+numpy==1.20.2
+opencv-python==4.5.1.48
+Pillow==8.2.0
+pycodestyle==2.7.0
+toml==0.10.2
+Werkzeug==1.0.1
